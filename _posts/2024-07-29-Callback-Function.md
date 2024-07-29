@@ -1,4 +1,5 @@
 ---
+layout: single
 title : "Callback Function이란?"
 excerpt: "Callback Function이란 무엇인지 알아보자."
 
