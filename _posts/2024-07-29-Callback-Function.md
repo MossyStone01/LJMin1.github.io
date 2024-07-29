@@ -1,18 +1,6 @@
 ---
 layout: single
-title : "Callback Function이란?"
-excerpt: "Callback Function이란 무엇인지 알아보자."
-
-catrgories :
- - Programming
-tags :
- = [Programming, Test]
-
-toc : true
-toc_sticky : true
-
-date : 2024-07=29
-last_modified_date : 2024-07=29
+title: title : "Callback Function"
 ---
 
 # Callback Function이란?
