@@ -1,6 +1,6 @@
 ---
 layout: single
-title: title : "Callback Function"
+title: "Callback Function"
 ---
 
 # Callback Function이란?
