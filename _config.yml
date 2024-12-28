@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "아무거나 이것저것 해봅니다. 잘 부탁드려요요."
+title                    : "아무거나 이것저것 해봅니다. 잘 부탁드려요."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Light Theme Maniac"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/39Imfine"
+      url: "https://github.com/LJMin1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
